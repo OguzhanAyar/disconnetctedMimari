@@ -1,0 +1,36 @@
+C:\Users\103A-2\source\repos\DisconnectedMimari\DisconnectedMimari\bin\Debug\DisconnectedMimari.exe.config
+C:\Users\103A-2\source\repos\DisconnectedMimari\DisconnectedMimari\bin\Debug\DisconnectedMimari.exe
+C:\Users\103A-2\source\repos\DisconnectedMimari\DisconnectedMimari\bin\Debug\DisconnectedMimari.pdb
+C:\Users\103A-2\source\repos\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.csproj.AssemblyReference.cache
+C:\Users\103A-2\source\repos\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.csproj.SuggestedBindingRedirects.cache
+C:\Users\103A-2\source\repos\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.Form1.resources
+C:\Users\103A-2\source\repos\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.KategoriForm.resources
+C:\Users\103A-2\source\repos\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.Properties.Resources.resources
+C:\Users\103A-2\source\repos\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.csproj.GenerateResource.cache
+C:\Users\103A-2\source\repos\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.csproj.CoreCompileInputs.cache
+C:\Users\103A-2\source\repos\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.exe
+C:\Users\103A-2\source\repos\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.pdb
+C:\Users\103A-2\Desktop\Yeni klasör\DisconnectedMimari\DisconnectedMimari\bin\Debug\DisconnectedMimari.exe.config
+C:\Users\103A-2\Desktop\Yeni klasör\DisconnectedMimari\DisconnectedMimari\bin\Debug\DisconnectedMimari.exe
+C:\Users\103A-2\Desktop\Yeni klasör\DisconnectedMimari\DisconnectedMimari\bin\Debug\DisconnectedMimari.pdb
+C:\Users\103A-2\Desktop\Yeni klasör\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.csproj.AssemblyReference.cache
+C:\Users\103A-2\Desktop\Yeni klasör\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.csproj.SuggestedBindingRedirects.cache
+C:\Users\103A-2\Desktop\Yeni klasör\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.Form1.resources
+C:\Users\103A-2\Desktop\Yeni klasör\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.KategoriForm.resources
+C:\Users\103A-2\Desktop\Yeni klasör\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.Properties.Resources.resources
+C:\Users\103A-2\Desktop\Yeni klasör\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.csproj.GenerateResource.cache
+C:\Users\103A-2\Desktop\Yeni klasör\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.csproj.CoreCompileInputs.cache
+C:\Users\103A-2\Desktop\Yeni klasör\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.exe
+C:\Users\103A-2\Desktop\Yeni klasör\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\repos\DisconnectedMimari\DisconnectedMimari\bin\Debug\DisconnectedMimari.exe.config
+C:\Users\oguzh\OneDrive\Masaüstü\repos\DisconnectedMimari\DisconnectedMimari\bin\Debug\DisconnectedMimari.exe
+C:\Users\oguzh\OneDrive\Masaüstü\repos\DisconnectedMimari\DisconnectedMimari\bin\Debug\DisconnectedMimari.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\repos\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.csproj.AssemblyReference.cache
+C:\Users\oguzh\OneDrive\Masaüstü\repos\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.csproj.SuggestedBindingRedirects.cache
+C:\Users\oguzh\OneDrive\Masaüstü\repos\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.Form1.resources
+C:\Users\oguzh\OneDrive\Masaüstü\repos\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.KategoriForm.resources
+C:\Users\oguzh\OneDrive\Masaüstü\repos\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.Properties.Resources.resources
+C:\Users\oguzh\OneDrive\Masaüstü\repos\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.csproj.GenerateResource.cache
+C:\Users\oguzh\OneDrive\Masaüstü\repos\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\repos\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.exe
+C:\Users\oguzh\OneDrive\Masaüstü\repos\DisconnectedMimari\DisconnectedMimari\obj\Debug\DisconnectedMimari.pdb
